@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/batch-tracking.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.manufacturer-registration]
+path = 'contracts/manufacturer-registration.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
