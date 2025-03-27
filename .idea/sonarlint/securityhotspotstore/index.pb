@@ -9,3 +9,5 @@ X
 (contracts/manufacturer-registration.clar,1/3/13a220701f2064c70fed3c75dd6db97789885a49
 W
 'tests/manufacturer-registration.test.ts,f/5/f585fd9ffa32201ca443d941fe41ee75b0769558
+K
+contracts/verification.clar,9/8/98bf185a1116d313d3e5ed3f0e297817b0eeeae1
